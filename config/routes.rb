@@ -4,5 +4,4 @@ Rails.application.routes.draw do
  get '/druga' => 'pages#druga'
  get '/register_login' => 'pages#register_login'
  get '/proizvodi' => 'pages#proizvodi'
-
 end
